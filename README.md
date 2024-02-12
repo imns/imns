@@ -1,60 +1,44 @@
-# Hello there! 👋 I'm [Nate](https://imns.co/)
+# Hello! 👋 I'm Nate
 
+Welcome to my corner of Github. I'm a longtime software engineer specializing in the art of JavaScript and TypeScript. Currently, I'm venturing into the world of Rust, fascinated by its performance and safety features. I thrive on creating tools that simplify the complex, always with a keen eye on the horizon for the next challenge.
 
-I'm a Senior Software Engineer who loves working with JavaScript and cloud technologies. I have a wealth of experience guiding teams, mentoring junior engineers, and leading high-profile projects.
+## 🔭 What's keeping me busy ...
 
-## 🔭 I’m currently working on ...
+I'm leading the charge at Pathpoint, steering my talented team towards building scalable and efficient software systems. 
 
-Guiding my team at Pathpoint, focusing on developing cutting-edge software systems using modern JavaScript frameworks and cloud technologies.
+## 🌟 Highlighted Creations
 
-## 🌱 I’m currently learning ...
+- **[Dvori](https://github.com/dvorijs/dvori)** - Simplify your API interactions with Dvori. It's my take on making HTTP requests straightforward and environment-agnostic. Check out the [website](https://dvorijs.com/) to explore more.
+- **[DurableWS](https://github.com/imns/durablews)** - A testament to my love for TypeScript, DurableWS stands as a resilient WebSocket client designed to endure. It's the robust, real-time communication channel you didn't know you needed.
+- **[TSCRDT](https://github.com/imns/TSCRDT)** - Delve into the depths of CRDTs with this library. It's a project born from my curiosity about distributed systems and my quest to unravel the mysteries of conflict-free replicated data types.
 
-Always sharpening my JavaScript skills and diving deeper into new JS frameworks, specifically Astro.
+Each project is a chapter in my story, a step towards understanding the vast landscape of software engineering.
 
-## 💼 Past Experiences
+## 🌱 I'm currently learning ...
 
-- **Pathpoint**, Senior Software Engineer
-- **Falcon Laboratories**, Founder, CTO / Full Stack Engineer
-- **MultiAd**, Senior UI Developer
+Rust has caught my eye. Its promise of memory safety without sacrificing performance feels like the next frontier. And as always, my journey with JavaScript and TypeScript continues—there's always something new to master in these languages that have become my closest allies.
 
-## ⚡ Tech Stack
+## 💼 Where I've made an impact
 
-Here are a few technologies I've been working with recently:
+- **Pathpoint**, as a beacon of leadership and innovation
+- **Falcon Laboratories**, where I donned the hats of Founder and CTO
+- **MultiAd**, shaping the future of UI as a Senior Developer
 
-- JavaScript, Vue.js, Nuxt.js, React.js
-- ES6, React Native, Electron.js
-- Node.js, Go, MongoDB, Python
-- AWS (DynamoDB, Lambda, Step Functions, SQS, Cloudfront)
+## ⚡ My toolkit
 
-## 📫 How to reach me:
+A blend of old favorites and new obsessions:
 
-- [LinkedIn](https://www.linkedin.com/in/nates/)
-- [imns.co](https://imns.co/)
+- **Frontend Bliss**: Vue.js, Nuxt.js, React.js, Astro
+- **Beyond the Browser**: React Native, Electron.js
+- **Server Side**: Node.js, Go, Python
+- **Data Layer**: MongoDB
+- **Cloud Sailing**: AWS suite (DynamoDB, Lambda, etc.)
 
-## 😄 Pronouns: 
-- He/Him
+## 📫 Connect with me
 
+- Let's talk shop [on LinkedIn](https://www.linkedin.com/in/nates/)
+- Dive into my [digital home](https://imns.co/)
 
+## 😄 Pronouns: He/Him
 
-
-<!--
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## 📊 Some stats
-
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-[website]: https://www.imns.co
-[linkedin]: https://www.linkedin.com/in/nates
--->
+I'm more than my code. I'm a mentor, a learner, a tech enthusiast who loves to share. If my journey resonates with you or you're curious about any of my projects, don't hesitate to reach out. Let's learn from each other and keep building amazing things.
